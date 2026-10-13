@@ -1,0 +1,76 @@
+/* Theme Colors */
+.bg-navy {
+    background-color: #12243e;
+}
+
+.text-navy {
+    color: #12243e;
+}
+
+.btn-navy {
+    background-color: #12243e;
+    color: #ffffff;
+}
+
+.btn-navy:hover {
+    background-color: #1a3356;
+    color: #ffffff;
+}
+
+/* Carousel Section */
+.carousel-item {
+    height: 440px;
+    background-size: cover;
+    background-position: center;
+}
+
+.slide-bg-1 {
+    background-image: linear-gradient(rgba(18, 36, 62, 0.72), rgba(18, 36, 62, 0.72)), url('../resources/photo-1521737711867-e3b97375f902.avif');
+}
+
+.slide-bg-2 {
+    background-image: linear-gradient(rgba(18, 36, 62, 0.72), rgba(18, 36, 62, 0.72)), url('../resources/photo-1454165804606-c3d57bc86b40.avif');
+}
+
+.slide-bg-3 {
+    background-image: linear-gradient(rgba(18, 36, 62, 0.72), rgba(18, 36, 62, 0.72)), url('../resources/photo-1497366754035-f200968a6e72.avif');
+}
+
+.carousel-caption {
+    bottom: 20%;
+    max-width: 650px;
+}
+
+/* Goal Section */
+.office-img {
+    height: 320px;
+}
+
+.icon-box {
+    width: 38px;
+    height: 38px;
+    border-radius: 8px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg-purple {
+    background-color: #ede9fe;
+    color: #7c3aed;
+}
+
+.bg-amber {
+    background-color: #fef3c7;
+    color: #d97706;
+}
+
+.bg-peach {
+    background-color: #fee2e2;
+    color: #ea580c;
+}
+
+.bg-blue {
+    background-color: #e0e7ff;
+    color: #4f46e5;
+}

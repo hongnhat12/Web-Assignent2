@@ -1,0 +1,28 @@
+/* Brand Logo */
+.logo-box {
+    width: 48px;
+    height: 48px;
+    background: linear-gradient(135deg, #4f46e5 0%, #3730a3 100%);
+    color: #ffffff;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(79, 70, 229, 0.3);
+}
+
+/* Form Styles */
+.btn-primary {
+    background-color: #3730a3;
+    border-color: #3730a3;
+}
+
+.btn-primary:hover {
+    background-color: #312e81;
+    border-color: #312e81;
+}
+
+.form-control:focus {
+    border-color: #4f46e5;
+    box-shadow: 0 0 0 0.2rem rgba(79, 70, 229, 0.15);
+}

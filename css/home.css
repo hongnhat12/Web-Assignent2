@@ -1,0 +1,79 @@
+/* Theme Colors */
+.bg-navy {
+    background-color: #12243e;
+}
+
+/* Hero Banner */
+.hero-banner {
+    background: linear-gradient(180deg, #e7effe 0%, #edf4fe 100%);
+    border-color: #dbeafe !important;
+}
+
+/* Course Cards */
+.card-html {
+    background-color: #fff6ee;
+    border-left: 6px solid #ea580c !important;
+}
+
+.text-orange {
+    color: #ea580c;
+}
+
+.btn-orange {
+    background-color: #ea580c;
+}
+
+.btn-orange:hover {
+    background-color: #c2410c;
+}
+
+.card-css {
+    background-color: #eff6ff;
+    border-left: 6px solid #0284c7 !important;
+}
+
+.text-blue {
+    color: #0284c7;
+}
+
+.btn-blue {
+    background-color: #0284c7;
+}
+
+.btn-blue:hover {
+    background-color: #0369a1;
+}
+
+.card-bootstrap {
+    background-color: #f7f3ff;
+    border-left: 6px solid #7c3aed !important;
+}
+
+.text-purple {
+    color: #7c3aed;
+}
+
+.btn-purple {
+    background-color: #6d28d9;
+}
+
+.btn-purple:hover {
+    background-color: #5b21b6;
+}
+
+.card-javascript {
+    background-color: #fefde8;
+    border-left: 6px solid #eab308 !important;
+}
+
+.text-gold {
+    color: #a16207;
+}
+
+.btn-gold {
+    background-color: #a16207;
+}
+
+.btn-gold:hover {
+    background-color: #854d0e;
+}
